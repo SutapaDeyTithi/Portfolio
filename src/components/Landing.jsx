@@ -21,7 +21,7 @@ const Landing = ({ landingData }) => {
       <Container>
         <Box sx={{ textAlign: 'center' }}>
           <Avatar
-            src="/Assets/profile2.png"
+            src="profile2.png"
             sx={{
               width: 150,
               height: 150,
