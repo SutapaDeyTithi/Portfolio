@@ -23,8 +23,8 @@ const Landing = ({ landingData }) => {
           <Avatar
             src="/Portfolio/profile2.png"
             sx={{
-              width: 150,
-              height: 150,
+              width: 250,
+              height: 250,
               margin: '0 auto',
               mb: 2,
               border: '3px solid #00796B',
