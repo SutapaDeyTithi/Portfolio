@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/SutapaDeyTithi/Portfolio/static/js/main.0db9d008.js",
-    "index.html": "/SutapaDeyTithi/Portfolio/index.html",
-    "main.0db9d008.js.map": "/SutapaDeyTithi/Portfolio/static/js/main.0db9d008.js.map"
+    "main.js": "/Portfolio/static/js/main.0db9d008.js",
+    "index.html": "/Portfolio/index.html",
+    "main.0db9d008.js.map": "/Portfolio/static/js/main.0db9d008.js.map"
   },
   "entrypoints": [
     "static/js/main.0db9d008.js"
