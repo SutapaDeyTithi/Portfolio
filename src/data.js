@@ -6,7 +6,8 @@ const data = {
     fb: "https://www.facebook.com/sutapadey.tithi.73",
     linkedIn: "https://linkedin.com/in/sutapa-dey-tithi-995399157",
     github: "https://github.com/SutapaDeyTithi",
-    scholar: "https://scholar.google.com/citations?user=FC3AM-wAAAAJ&hl=en"
+    scholar: "https://scholar.google.com/citations?user=FC3AM-wAAAAJ&hl=en",
+    cv: "https://drive.google.com/file/d/1_Zu4OHwDRWmjtJqZGqyFQ2dRWhQDASa4/view?usp=sharing"
   },
   education: [
     {

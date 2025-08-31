@@ -45,10 +45,19 @@ const Landing = ({ landingData }) => {
               variant="contained"
               color="secondary"
               startIcon={<SchoolIcon />}
+              href={landingData.cv}
+              target="_blank"
+            >
+              CV
+            </Button>
+            <Button
+              variant="contained"
+              color="secondary"
+              startIcon={<SchoolIcon />}
               href={landingData.scholar}
               target="_blank"
             >
-              Scholar
+              Google Scholar
             </Button>
 
             <Button
